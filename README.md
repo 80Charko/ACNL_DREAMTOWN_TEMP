@@ -72,7 +72,7 @@ Now you will need to follow carefully what i'll do.<br>
 You will now be able to view the save file in the save editor but you wont be able to play with it since checksum is invalid (from my guess).<br>
 **NOTE: If the save file has an invalid building in it, it wont load on the save editor.<br> Mine didn't open so I checked it on [NLSE](https://www.dropbox.com/scl/fi/ly7beq6gp3a6a7bp9x86m/NLSE.exe?rlkey=55hfagmyw4bs3zcsudbc4htuu&st=ljb1r53d&e=1&dl=0) and it did have an invalid building (the photobooth was in the map)**.<br>
 
-*update : i updated the NLSE link with "Mega-Mew"'s version (all credits goes to him but his version/github account was deleted)*
+*update : i updated the NLSE link with Mega-Mew's (NLSE) version (all credits goes to him but his version/github account was deleted)*
 
 <img width="852" height="941" alt="BROSKI" src="https://github.com/user-attachments/assets/337d3077-da0c-4636-af47-7cf493bffa94" /><br>
 
