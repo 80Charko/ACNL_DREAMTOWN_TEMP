@@ -138,3 +138,4 @@ You can save now and restart the game and you will keep the town!<br>
 <img width="1383" height="583" alt="image" src="https://github.com/user-attachments/assets/c30e3c3a-6e81-407e-ad02-2c42cee8f55d" /><br>
 
 
+## If you have some issues Dm me on discord : amrc.
