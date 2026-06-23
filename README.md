@@ -24,7 +24,7 @@ Search for the town you'd like to visit and then write somewhere the **data_id**
 *for this tutorial we will use PINK from LYON.*
 
 Once you have everything, copy this link, "https://r2-acnl-public.pretendo.network/objects/DataID_vVersion.bin", and replace DataID with the data_id of your town and Version with the version you have.<br> *Ex. For LYON@PINK we have https://r2-acnl-public.pretendo.network/objects/1000117_v16.bin*<br>
-Then paste it into your navigator and you'll have your bin file.
+Then paste it into your browser and you'll have your bin file.
 
 # 2 Fix the save file
 You should have this in your folder. <br>
