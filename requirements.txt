@@ -1,3 +1,2 @@
 FreeSimpleGUI
 requests
-sqlite3
