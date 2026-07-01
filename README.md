@@ -1,7 +1,7 @@
 # ACNL DREAM TOWN DOWNLOADER + DECRYPTOR
-What is this, exactly? It’s a temporary way to download and decrypt the binary files archived by the pretendo team! 
-Thanks to them for their exceptional work.
-This program converts the binary files into garden_plus.dat files that work in the EURWA and USAWA versions.
+What is this, exactly? It’s a temporary way to download and decrypt the binary files archived by the pretendo team!<br> 
+Thanks to them for their exceptional work.<br>
+This program converts the binary files into garden_plus.dat files that work in the **EURWA** and **USAWA** versions.<br>
 
 ## How do I use this program (it's a video)
 [![Watch the video](https://github.com/user-attachments/assets/5b801f2b-6a2a-4299-b64f-24908ae3cf7e)](https://streamable.com/38r0n2)
